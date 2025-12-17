@@ -38,30 +38,3 @@
   </a>
 </div>
 
-###
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iLoveForLoop&show_icons=true)
-
-
-###
-
-![GitHub Streak](https://streak-stats.demolab.com?user=iLoveForLoop)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=iLoveForLoop)
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iLoveForLoop/iLoveForLoop/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iLoveForLoop/iLoveForLoop/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iLoveForLoop/iLoveForLoop/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Jefersonnnnn">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Jefersonnnnn&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
