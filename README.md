@@ -40,6 +40,7 @@
 
 ###
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iLoveForLoop&show_icons=true)
 
 
 ###
