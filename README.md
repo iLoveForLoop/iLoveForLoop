@@ -47,6 +47,9 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=iLoveForLoop)
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=iLoveForLoop)
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iLoveForLoop/iLoveForLoop/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iLoveForLoop/iLoveForLoop/output/pacman-contribution-graph.svg">
