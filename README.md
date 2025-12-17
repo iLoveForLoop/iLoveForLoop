@@ -42,11 +42,10 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iLoveForLoop&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=iLoveForLoop)
-
-
 
 ###
+
+![GitHub Streak](https://streak-stats.demolab.com?user=iLoveForLoop)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iLoveForLoop/iLoveForLoop/output/pacman-contribution-graph-dark.svg">
